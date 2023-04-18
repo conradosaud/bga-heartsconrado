@@ -25,6 +25,11 @@
     Please REMOVE this comment before publishing your game on BGA
 -->
 
+
+<div>
+    <h1>Teste de outro texto escrito aqui</h1>
+</div>
+
 <div id="myhand_wrap" class="whiteblock">
     <h3>My Hand</h3>
     <div id="myhand">
