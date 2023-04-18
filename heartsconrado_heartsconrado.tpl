@@ -25,9 +25,8 @@
     Please REMOVE this comment before publishing your game on BGA
 -->
 
-
 <div>
-    <h1>Teste de outro texto escrito aqui</h1>
+    <h1>Teste ae man</h1>
 </div>
 
 <div id="myhand_wrap" class="whiteblock">
@@ -37,28 +36,8 @@
 </div>
 
 <div id="myhand">
-    <div class="playertablecard"></div>
-</div>
-
-<div id="playertables">
-
-    <!-- BEGIN player -->
-    <div class="playertable whiteblock playertable_{DIR}">
-        <div class="playertablename" style="color:#{PLAYER_COLOR}">
-            {PLAYER_NAME}
-        </div>
-        <div class="playertablecard" id="playertablecard_{PLAYER_ID}">
-        </div>
+       <div class="playertablecard"></div>
     </div>
-    <!-- END player -->
-
-</div>
-
-<div id="myhand_wrap" class="whiteblock">
-    <h3>{MY_HAND}</h3>
-    <div id="myhand">
-    </div>
-</div>
 
 
 <script type="text/javascript">
